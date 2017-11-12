@@ -1,0 +1,25 @@
+//tag
+//attribute 
+//value
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    h1
+    h2
+    h3
+    h4
+    h5
+    h6
+    p
+    img src=value
+    a 
+    ul>li 
+    ol>li
+    dl>dt+dd  
+    table
+      tr td
+
+  </body>
+</html>
